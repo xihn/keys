@@ -1,5 +1,0 @@
-This is my official website: https://www.ocf.berkeley.edu/~drain/
-I confirm that this website is owned and maintained by me.
-
-Signed by: Miles
-GPG Key ID: 4D77A16108D53DB084C24C88C7477876F7C730AE
